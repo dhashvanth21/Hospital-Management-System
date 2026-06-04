@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224230064
+# Name: Dhashvanth B
+# Date: 07.05.2026
 
 
 # AIM:
@@ -42,6 +42,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1256" height="913" alt="image" src="https://github.com/user-attachments/assets/ee935d99-6584-4162-b4a2-abb61632860e" />
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1259" height="915" alt="image" src="https://github.com/user-attachments/assets/cd33e86e-0e7c-42ab-b47f-88fa469ee7ff" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1260" height="912" alt="image" src="https://github.com/user-attachments/assets/99c27d4a-1b94-471f-acfc-061e3eb6cb09" />
 
 
 
@@ -82,6 +85,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1244" height="897" alt="image" src="https://github.com/user-attachments/assets/b2f02b3e-40d4-4f19-b60d-475dc1f7cf91" />
 
 
 
@@ -98,6 +102,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1259" height="914" alt="image" src="https://github.com/user-attachments/assets/af8bc5d6-b426-4a70-a846-ebf2f7eab51b" />
 
 
 
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1240" height="899" alt="image" src="https://github.com/user-attachments/assets/927117d3-13d0-4499-a3c6-3bf0e773f8e3" />
 
 
 
@@ -127,4 +133,3 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop Hospital Management system was developed using Star UML Software is done successfully.
-
